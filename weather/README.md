@@ -28,7 +28,7 @@ Before running the application, you need to obtain an API key from OpenWeatherMa
 
 To run this application locally, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository: gh repo clone Una909/323-weather
 
 2. npm install
 
